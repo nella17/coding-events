@@ -2,8 +2,9 @@
 
 ## [CodeJam](g.co/codejam)
 
-| Round |  A   |  B   |  C   |  D   |  E   |
-| ----- | :--: | :--: | :--: | :--: | :--: |
+| Round                                                        |  A   |  B   |   C   |     D     |   E    |
+| ------------------------------------------------------------ | :--: | :--: | :---: | :-------: | :----: |
+| [Qualification](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1) |  V   |  V   | V / V | V / V / V | - (+3) |
 
 ## [KickStart](g.co/kickstart)
 
