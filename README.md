@@ -2,9 +2,10 @@
 
 ## [CodeJam](g.co/codejam)
 
-| Round                                                        |  A   |  B   |   C   |     D     |   E    |
-| ------------------------------------------------------------ | :--: | :--: | :---: | :-------: | :----: |
-| [Qualification](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1) |  V   |  V   | V / V | V / V / V | - (+3) |
+| Round                                                        |   A   |  B   |   C   |     D     |   E    |
+| ------------------------------------------------------------ | :---: | :--: | :---: | :-------: | :----: |
+| [1A](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5) | V / V |  V   | V / - |           |        |
+| [Qualification](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1) |   V   |  V   | V / V | V / V / V | - (+3) |
 
 ## [KickStart](g.co/kickstart)
 
